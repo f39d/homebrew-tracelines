@@ -11,3 +11,8 @@ brew tap f39d/tracelines
 # 2. Install the CLI
 brew install tracelines
 ```
+Or install in a single step:
+
+```
+brew install f39d/tracelines/tracelines
+```
